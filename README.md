@@ -1,5 +1,5 @@
 # Open-ethereum-pool
-Highly Efficient mining pool designed for ETC coin
+Highly Efficient mining pool designed for ETC coins
 
 
 ![alt text](https://raw.githubusercontent.com/techievee/ethash-mining-pool/master/images/FrontEnd.png)
